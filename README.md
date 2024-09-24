@@ -52,6 +52,8 @@ This application relies on the following Python libraries:
 * Right-click on the ScreenCapper icon in the system tray to access a menu with  options to capture a screenshot, view info about the app, and quit.
 * The tool remembers the last used save directory for convenient image saving.
 
+<img src="images/quickcap.png" align="right" alt="a GIMP edited capture"></img>
+
 ### Contributing
 
 We appreciate any contributions to improve ScreenCapper! Feel free to fork the repository, make changes, and submit a pull request.
@@ -60,7 +62,7 @@ We appreciate any contributions to improve ScreenCapper! Feel free to fork the r
 
 Please read [this](Media_Attribution_ScreenCapper.md).
 
-# Thanks
+### Thanks
 
 <p>Ryon Shane Hall</p>
 <br>
