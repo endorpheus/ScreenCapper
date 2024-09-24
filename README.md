@@ -1,3 +1,5 @@
+<img src="Icons/screenshot_icon.png" align="left" alt="ScreenCapper"></img>
+
 # ScreenCapper
 
 Here we have *yet another* screencap tool.  Initially, it was just going to be a basic "grab the whole screen" type of thing, but it was fun, so I just kept going.  
@@ -29,7 +31,7 @@ This application relies on the following Python libraries:
 
 **Installation Steps:**
 
-1. Open a terminal window and navigate to the directory containing the `screenshot_tool.py` script.
+1. Open a terminal window and navigate to the directory containing the `ScreenCapper.py` script.
 2. Install the required libraries using pip:
 
 ```bash
@@ -41,7 +43,7 @@ This application relies on the following Python libraries:
 1. Run the script using the following command:
 
 ```bash
-    python screenshot_tool.py
+    python ScreenCapper.py
 ```
 
 **Tips:**
@@ -63,4 +65,4 @@ Please read [this](Media_Attribution_ScreenCapper.md).
 <p>Ryon Shane Hall</p>
 <br>
 endorpheus@gmail.com<br>
-[ryonshanehall.com](http://ryonshanehall.com)
+<a href="http://ryonshanehall.com" alt="Check it out!">My Website</a><br><br>
